@@ -34,11 +34,11 @@ This is a Machine Learning Projects Repository for students who are willing to l
 -->
 
 
-# Awesome GitHub Profile README Template Collection
+#  
 
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/bill-unitech2021/Machine_Learning_Projects_for_stuendts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/bill-unitech2021/Machine_Learning_Projects_for_stuendts/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/bill-unitech2021/Machine_Learning_Projects_for_stuendts/network)
 
 A collection of GitHub profile README's examples.
 
