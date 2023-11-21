@@ -40,11 +40,13 @@ This is a Machine Learning Projects Repository for students who are willing to l
 [![GitHub forks](https://img.shields.io/github/forks/bill-unitech2021/Machine_Learning_Projects_for_stuendts.svg?color=blue)](https://github.com/bill-unitech2021/Machine_Learning_Projects_for_stuendts/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/bill-unitech2021/Machine_Learning_Projects_for_stuendts.svg?color=blue)](https://github.com/bill-unitech2021/Machine_Learning_Projects_for_stuendts/network)
 
-From A collection of GitHub profile README's examples：   
+README samples are from A collection of GitHub profile README's examples：   
 - awesome-github-profile-readme-templates
 
-[Contributions]are welcome. Read the [Guidelines] on how to contribute.
+- [Contributions]are welcome. 
+
+- Read the [Guidelines] on how to contribute.
 Feel free to add your or someone else's GitHub profile README file.
 
-Don't forget to hit the :star: if you like this repo.
+- Don't forget to hit the :star: if you like this repo.
 
